@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Development/App1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.1555" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/drawable/ic_baseline_wb_cloudy_24.xml" value="0.1035" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/activity_forecast_details.xml" value="0.2" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/fragment_current_forecast.xml" value="0.264" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/fragment_forecast_details.xml" value="0.259375" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/fragment_location_entry.xml" value="0.264" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/fragment_weekly_forecast.xml" value="0.176" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/item_daily_forecast.xml" value="0.264" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/layout/layout.xml" value="0.18795289855072464" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/menu/main_nav.xml" value="0.259375" />
+        <entry key="..\:/Android Development/App1/app/src/main/res/menu/settings_menu.xml" value="0.259375" />
       </map>
     </option>
   </component>
